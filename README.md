@@ -1,4 +1,4 @@
-Installation
+<b>Installation</b>
 
 1) This script requires Greasemonkey.  Links below.<br>
 <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Chrome</a><br>
