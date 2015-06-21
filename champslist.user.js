@@ -4,8 +4,7 @@
 // @include         http://perfectworld.vanillaforums.com/categories/co
 // @downloadURL https://github.com/TheKaiserin/Vanilla/raw/master/champslist.user.js
 // @updateURL https://github.com/TheKaiserin/Vanilla/raw/master/champslist.user.js
-// @icon http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/perfectworld.vanillaforums.com/favicon_2b888861142269ff.ico
-// @version    0.0.1
+// @version    0.1.0
 // @description  Adds the Champions Online forum lists to one page.
 // ==/UserScript==
 
